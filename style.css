@@ -37,7 +37,6 @@ body {
 	border: solid black 1px;
 	border-radius: 10px;
 	margin-left: 50px;
-	margin-top: 45px;
 	display: inline-block;
 	height: 200px;
 	width: 300px;
@@ -69,6 +68,11 @@ body {
 	text-align: left;
 	font-size: 20px;
 
+}
+
+.project-heading {
+	font-size: 32px;
+	text-align: center;
 }
 
 .project1 {
@@ -105,5 +109,12 @@ body {
 .github-button {
 	width: 100px;
 	height: 30px;
-	border: red solid 1px;
+	color: white;
+	border-radius: 10px;
+	background-color: rgba(73, 187, 204, 1);
+}
+
+.seperator {
+	width: auto;
+	border: black solid 1px;
 }
