@@ -1,0 +1,109 @@
+#header {
+	width: 1000px;
+	height: 100px;
+	border: solid black 2px;
+	margin: 0 auto;
+	background-color: white;
+	
+}
+
+#header-text {
+	font-size: 32px;
+	text-align: center;
+}
+
+body {
+	background-image: url('images/background.png');
+	background-size: 400px;
+	background-repeat: repeat;
+}
+
+#main-container {
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 30px;
+	/*background-color: white;
+	*/
+}
+
+.project-item-container {
+	width: 1000px;
+	height: 350px;
+	margin-top: 30px;
+}
+
+.project-image-container {
+	border: solid black 1px;
+	border-radius: 10px;
+	margin-left: 50px;
+	margin-top: 45px;
+	display: inline-block;
+	height: 200px;
+	width: 300px;
+}
+
+.project-text-container {
+	display: inline-block;
+	margin-left: 100px;
+	width: 450px;
+	height: 250px;
+}
+
+.button-container {
+	border: solid blue 2px;
+	width: 50px;
+	height: 50px;
+	display: inline;
+}
+
+.project-textbox-container {
+	width: 350px;
+	height: 200px;
+	position: absolute;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+.text-format {
+	text-align: left;
+	font-size: 20px;
+
+}
+
+.project1 {
+	background-image: url('images/economy.png');
+	background-size: 470px;
+	background-repeat: no-repeat;
+
+}
+
+.project2 {
+	background-image: url('images/london.png');
+	background-size: 450px 300px;
+	background-repeat: repeat;
+}
+
+.project3 {
+	background-image: url('images/mvc.png');
+	background-size: 300px 200px;
+	background-repeat: no-repeat;
+}
+
+.project4 {
+	background-image: url('images/escape.png');
+	background-size: 300px 200px;
+	background-repeat: repeat-y;
+}
+
+.project5 {
+	background-image: url('images/postgres.png');
+	background-size: 300px 200px;
+	background-repeat: no-repeat;
+}
+
+.github-button {
+	width: 100px;
+	height: 30px;
+	border: red solid 1px;
+}
