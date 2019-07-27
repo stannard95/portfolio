@@ -97,7 +97,7 @@ body {
 }
 
 .project3 {
-	background-image: url('images/mvc.png');
+	background-image: url('images/vrgame.bmp');
 	background-size: 300px 200px;
 	background-repeat: no-repeat;
 }
@@ -108,14 +108,8 @@ body {
 	background-repeat: repeat-y;
 }
 
-.project5 {
-	background-image: url('images/postgres.png');
-	background-size: 300px 200px;
-	background-repeat: no-repeat;
-}
-
 .github-button {
-	width: 100px;
+	width: 120px;
 	height: 30px;
 	color: white;
 	border-radius: 10px;
